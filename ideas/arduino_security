@@ -1,0 +1,4 @@
+Arduino -> distance sensor
+	1. pulling sensor every couple of seconds
+	2. if problem, send an email
+	3. disabled/enabled by bluetooth control and ethernet control
