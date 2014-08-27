@@ -1,0 +1,5 @@
+arduino -> ubuntu server
+
+1. server checks the stock prices periodically according to specific parameter, lower than, higher than.
+2. Arduino light up controls
+3. server can send email notification (txt notification) to user
